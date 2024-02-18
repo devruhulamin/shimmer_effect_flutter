@@ -1,0 +1,1 @@
+enum ColorOpacity { light, dark }
